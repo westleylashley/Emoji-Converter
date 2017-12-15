@@ -1,3 +1,3 @@
 # Emoji Converter
 
-A simple app that converts words into emojis.
+A simple app that converts words into emojis.😄
