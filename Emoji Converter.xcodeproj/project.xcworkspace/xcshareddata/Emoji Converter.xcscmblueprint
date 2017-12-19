@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "27CA2443850192EF7E63D9395611CD36B6DED6CA",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "27CA2443850192EF7E63D9395611CD36B6DED6CA" : 9223372036854775807,
+    "7D5842E3C2F8E359C6901B37F90B1FF89CDC1067" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "75A3A6EC-994F-4875-9AC6-76A6841E1765",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "27CA2443850192EF7E63D9395611CD36B6DED6CA" : "Emoji%20Converter\/",
+    "7D5842E3C2F8E359C6901B37F90B1FF89CDC1067" : ".."
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Emoji Converter",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Emoji Converter.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/git.generalassemb.ly\/iosi\/sf-01-homework-and-labs.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "27CA2443850192EF7E63D9395611CD36B6DED6CA"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/git.generalassemb.ly\/westley\/My-Homework-and-Labs.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "7D5842E3C2F8E359C6901B37F90B1FF89CDC1067"
+    }
+  ]
+}
